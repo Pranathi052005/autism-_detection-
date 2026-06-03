@@ -1,0 +1,14 @@
+{
+  "model_type": "XGBoost",
+  "accuracy": 1.0,
+  "auc": 1.0,
+  "cv_mean": 0.9995061728395062,
+  "cv_std": 0.0006584362139917699,
+  "feature_count": 14,
+  "training_samples": 4860,
+  "test_samples": 1215,
+  "target_classes": [
+    "No ASD",
+    "ASD"
+  ]
+}
